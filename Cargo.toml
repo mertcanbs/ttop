@@ -1,0 +1,10 @@
+[package]
+name = "ttop"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.105"
+lexopt = "0.3.2"
+libc = "0.2.191"
+ratatui = "0.30.2"
